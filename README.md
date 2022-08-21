@@ -6,12 +6,12 @@ Date of Project :  21/08/2022
 Title of Project: Post Bikeshare project on Github
 
 
-### Exploring Bike Share Data for 3 cities
+Description of Project : Exploring Bike Share Data for 3 cities : Chicago, Newyork , washington
 
 
-### readme.md,ipynb file,index.html
+Files used: readme.md,ipynb file,index.html
 
 
-### Udacity lessons
+References: Udacity lessons
 
 
